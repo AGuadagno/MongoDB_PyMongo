@@ -1,0 +1,57 @@
+[
+	{
+		"Titolo": "Harry Potter e la pietra filosofale",
+		"Autore": "Rowling",
+		"Anno pubblicazione": 1997,
+		"Genere": ["Fantascienza", "Magia"],
+		"Recensioni":[
+			{"Stelle": 4, "Recensione": "Bel libro", "Utente": "Marco"},
+			{"Stelle": 5, "Recensione": "Il mio libro preferito", "Utente": "Luigi"},
+			{"Stelle": 2, "Recensione": "Noioso", "Utente": "Giorgio"}
+		]
+	},
+	{
+		"Titolo": "Harry Potter e la camera dei segreti",
+		"Autore": "Rowling",
+		"Anno pubblicazione": 1999,
+		"Genere": ["Fantascienza", "Magia"],
+		"Recensioni":[
+			{"Stelle": 2, "Recensione": "Meglio il primo"}
+		]
+	},
+	{
+		"Titolo": "Il signore degli anelli",
+		"Autore": "Tolkien",
+		"Genere": ["Fantascienza", "Avventura"],
+		"Recensioni":[
+			{"Stelle": 4, "Recensione": "Emozionante", "Utente": "Luigi"},
+			{"Stelle": 5, "Recensione": "Il migliore di sempre", "Utente": "Mirco"}
+		]
+	},
+	{
+		"Titolo": "Zanna Bianca",
+		"Autore": "London",
+		"Genere": ["Avventura"],
+		"Anno pubblicazione": 1906,
+		"Recensioni":[
+			{"Stelle": 1, "Recensione": "Orribile", "Utente": "Luigi"},
+			{"Stelle": 5, "Recensione": "Il migliore di sempre", "Utente": "Federica"}
+		]
+	},
+	{
+		"Titolo": "Inferno",
+		"Autore": "Brown",
+		"Genere": ["Avventura"],
+		"Anno pubblicazione": 2013,
+		"Recensioni":[
+			{"Stelle": 4, "Recensione": "Stupendo", "Utente": "Mirco"},
+			{"Stelle": 5, "Recensione": "Brown è il mio autore preferito", "Utente": "Luisa"}
+		]
+	},
+	{
+		"Titolo": "Il codice da vinci",
+		"Autore": "Brown",
+		"Genere": ["Azione"],
+		"Anno pubblicazione": 2003
+	}
+]
